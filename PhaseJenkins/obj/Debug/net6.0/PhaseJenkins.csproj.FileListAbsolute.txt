@@ -1,0 +1,14 @@
+C:\Users\Madhu\source\repos\PhaseJenkins\PhaseJenkins\bin\Debug\net6.0\PhaseJenkins.exe
+C:\Users\Madhu\source\repos\PhaseJenkins\PhaseJenkins\bin\Debug\net6.0\PhaseJenkins.deps.json
+C:\Users\Madhu\source\repos\PhaseJenkins\PhaseJenkins\bin\Debug\net6.0\PhaseJenkins.runtimeconfig.json
+C:\Users\Madhu\source\repos\PhaseJenkins\PhaseJenkins\bin\Debug\net6.0\PhaseJenkins.dll
+C:\Users\Madhu\source\repos\PhaseJenkins\PhaseJenkins\bin\Debug\net6.0\PhaseJenkins.pdb
+C:\Users\Madhu\source\repos\PhaseJenkins\PhaseJenkins\obj\Debug\net6.0\PhaseJenkins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madhu\source\repos\PhaseJenkins\PhaseJenkins\obj\Debug\net6.0\PhaseJenkins.AssemblyInfoInputs.cache
+C:\Users\Madhu\source\repos\PhaseJenkins\PhaseJenkins\obj\Debug\net6.0\PhaseJenkins.AssemblyInfo.cs
+C:\Users\Madhu\source\repos\PhaseJenkins\PhaseJenkins\obj\Debug\net6.0\PhaseJenkins.csproj.CoreCompileInputs.cache
+C:\Users\Madhu\source\repos\PhaseJenkins\PhaseJenkins\obj\Debug\net6.0\PhaseJenkins.dll
+C:\Users\Madhu\source\repos\PhaseJenkins\PhaseJenkins\obj\Debug\net6.0\refint\PhaseJenkins.dll
+C:\Users\Madhu\source\repos\PhaseJenkins\PhaseJenkins\obj\Debug\net6.0\PhaseJenkins.pdb
+C:\Users\Madhu\source\repos\PhaseJenkins\PhaseJenkins\obj\Debug\net6.0\PhaseJenkins.genruntimeconfig.cache
+C:\Users\Madhu\source\repos\PhaseJenkins\PhaseJenkins\obj\Debug\net6.0\ref\PhaseJenkins.dll
